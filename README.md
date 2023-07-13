@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vatsal2307
+- 👋 Hi, I’m @Vatsal2307
 - 👀 I’m interested in python programming and the cloud.
 - 🌱 I’m currently learning Python, and AWS fundamentals
 
