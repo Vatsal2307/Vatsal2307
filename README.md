@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Vatsal2307
-- 👀 I’m interested in Data engineering
-- 🌱 I’m currently learning Python, MySQL, and AWS fundamentals
+- 👋 Hi, I’m @vatsal2307
+- 👀 I’m interested in python programming and the cloud.
+- 🌱 I’m currently learning Python, and AWS fundamentals
 
 - 📫 How to reach me vatsal23.2020@gmail.com
 
