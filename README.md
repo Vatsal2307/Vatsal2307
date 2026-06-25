@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vatsal2307
 - 👀 I’m interested in python programming and the cloud.
-- 🌱 I’m currently learning Python, and AWS fundamentals
+  
 
 - 📫 How to reach me vatsal23.2020@gmail.com
 
