@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vatsal2307
+- 👋 Hi, I’m @Vatsa
 - 👀 Cloud Engineer delivering Azure solutions and managing resources effectively.
   
 
